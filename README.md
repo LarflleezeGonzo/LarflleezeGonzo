@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hello, I'm Siddharth
 
-<!--
-**LarflleezeGonzo/LarflleezeGonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Software Engineer with expertise in microservices, REST APIs, and database management.
+- Proficient in developing high-performance solutions using FastAPI, Postgres, and asynchronous tasks.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Backend:** FastAPI, Flask, Celery, Redis
+- **Database:** Postgres, Cosmos DB, Elasticsearch
+- **Cloud:** Azure (Data Factory, Blob Storage, Cache for Redis, Application Insights)
+- **Containerization:** Docker
+- **Orchestration:** Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+- [LinkedIn](www.linkedin.com/in/siddharthprathap)
